@@ -1,0 +1,47 @@
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  1) ﻿<!DOCTYPE html>
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  2) 
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  3) <html lang="es">
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  4) <head>
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  5)     <meta charset="utf-8" />
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  6)     <title>Git desarrollo Colaborativo</title>
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  7) </head>
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300  8) <body>
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300  9)     <header>
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 10)         <h1>
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 11)             GIT
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 12)         </h1>
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 13)         <p>
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 14)             Desarrollo Colaborativo
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 15)         </p>
+1d0d295c (Virginia          2021-09-08 11:33:32 -0300 16)     </header>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 17)     <section>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 18)         <h2>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 19)             Areas de git
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 20)         </h2>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 21)         <article>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 22)             <h3>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 23)                 workin Directory
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 24)             </h3>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 25)             <p>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 26)                 Es el area de trabaja, donde rara vez vamos a utilizar la linea de comando, aquella donde realizamos las modificaciones de nuestro proyecto tales como la creacion, ediciona y elminacion de archivos. El unico comando necesario sera enfasis en <em>git init</em> para iniciar nuestro proyecto gestionado con la herramienta <strong>git</strong>
+00000000 (Not Committed Yet 2021-09-10 11:10:26 -0300 27) <<<<<<< HEAD
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 28)              </p>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 29)             <h3>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 30)                 Staging Area (INDEX)
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 31)             </h3>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 32)             <p>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 33)                 Es el area de control, donde estaremos agregando los archivos a los que queremos hacerles seguimientos, una vez hecho esto podemos realizar la confirmacion de cambios para poder recuperar dichas modificaciones en caso de ser necesario. Cuando agregamos un archivo al INDEX git realiza una captura del codigo(snaphot) que permite identificar las lineas agregadas o eliminadas.
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 34)             </p>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 35)             <h3>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 36)                 Repositorio (Local/REmote)
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 37)             </h3>
+befcf3f1 (Virginia          2021-09-10 10:45:27 -0300 38)             <p>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 39)                 Area donde se almacenan las confirmaciones de las captura en formato blob para que puedan ser utilizadas al momento de movenrnos en nuestro proyecto y restablecer el mismo. Git gestiona los cambios localmente, pe podemos enviar el historial de cambios a una direccion externa, tambiien conocida como respositorio remoto.
+00000000 (Not Committed Yet 2021-09-10 11:10:26 -0300 40) >>>>>>> 955a26a52438dddc77824b447b7c9efb7db4711d
+befcf3f1 (Virginia          2021-09-10 10:45:27 -0300 41)             </p>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 42)         </article>
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 43) 
+3515a5c3 (Virginia          2021-09-08 14:33:00 -0300 44)     </section>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 45)     </article>
+955a26a5 (Virginia          2021-09-10 10:35:49 -0300 46)    </body>
+^55e1415 (Virginia          2021-09-08 09:52:52 -0300 47) </html>
